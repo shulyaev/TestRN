@@ -1,0 +1,2179 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SANPSHOT TEST - Footer 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "borderColor": "#D3D3D3",
+      "borderTopWidth": 1,
+      "flex": 1,
+      "justifyContent": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "fontSize": 20,
+      }
+    }
+  >
+    Alex Shulyaev
+  </Text>
+</View>
+`;
+
+exports[`SANPSHOT TEST - ShowCard 1`] = `
+<RCTScrollView
+  data={
+    Array [
+      Object {
+        "_links": Object {
+          "previousepisode": Object {
+            "href": "http://api.tvmaze.com/episodes/1051658",
+          },
+          "self": Object {
+            "href": "http://api.tvmaze.com/shows/250",
+          },
+        },
+        "externals": Object {
+          "imdb": "tt3544772",
+          "thetvdb": 278449,
+          "tvrage": 37394,
+        },
+        "genres": Array [
+          "Comedy",
+        ],
+        "id": 250,
+        "image": Object {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/4600.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/4600.jpg",
+        },
+        "language": "English",
+        "name": "Kirby Buckets",
+        "network": Object {
+          "country": Object {
+            "code": "US",
+            "name": "United States",
+            "timezone": "America/New_York",
+          },
+          "id": 25,
+          "name": "Disney XD",
+        },
+        "officialSite": "http://disneyxd.disney.com/kirby-buckets",
+        "premiered": "2014-10-20",
+        "rating": Object {
+          "average": null,
+        },
+        "runtime": 30,
+        "schedule": Object {
+          "days": Array [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+          ],
+          "time": "07:00",
+        },
+        "status": "Running",
+        "summary": "<p>The single-camera series that mixes live-action and animation stars Jacob Bertrand as the title character. <b>Kirby Buckets</b> introduces viewers to the vivid imagination of charismatic 13-year-old Kirby Buckets, who dreams of becoming a famous animator like his idol, Mac MacCallister. With his two best friends, Fish and Eli, by his side, Kirby navigates his eccentric town of Forest Hills where the trio usually find themselves trying to get out of a predicament before Kirby's sister, Dawn, and her best friend, Belinda, catch them. Along the way, Kirby is joined by his animated characters, each with their own vibrant personality that only he and viewers can see.</p>",
+        "type": "Scripted",
+        "updated": 1539422120,
+        "url": "http://www.tvmaze.com/shows/250/kirby-buckets",
+        "webChannel": Object {
+          "country": Object {
+            "code": "US",
+            "name": "United States",
+            "timezone": "America/New_York",
+          },
+          "id": 83,
+          "name": "DisneyNOW",
+        },
+        "weight": 52,
+      },
+      Object {
+        "_links": Object {
+          "previousepisode": Object {
+            "href": "http://api.tvmaze.com/episodes/215207",
+          },
+          "self": Object {
+            "href": "http://api.tvmaze.com/shows/251",
+          },
+        },
+        "externals": Object {
+          "imdb": "tt1606375",
+          "thetvdb": 193131,
+          "tvrage": 26615,
+        },
+        "genres": Array [
+          "Drama",
+          "Family",
+          "Romance",
+        ],
+        "id": 251,
+        "image": Object {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/1/4601.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/1/4601.jpg",
+        },
+        "language": "English",
+        "name": "Downton Abbey",
+        "network": Object {
+          "country": Object {
+            "code": "GB",
+            "name": "United Kingdom",
+            "timezone": "Europe/London",
+          },
+          "id": 35,
+          "name": "ITV",
+        },
+        "officialSite": "http://www.itv.com/downtonabbey",
+        "premiered": "2010-09-26",
+        "rating": Object {
+          "average": 9.1,
+        },
+        "runtime": 60,
+        "schedule": Object {
+          "days": Array [
+            "Sunday",
+          ],
+          "time": "21:00",
+        },
+        "status": "Ended",
+        "summary": "<p>The <b>Downton Abbey</b> estate stands a splendid example of confidence and mettle, its family enduring for generations and its staff a well-oiled machine of propriety. But change is afoot at Downton — change far surpassing the new electric lights and telephone. A crisis of inheritance threatens to displace the resident Crawley family, in spite of the best efforts of the noble and compassionate Earl, Robert Crawley ; his American heiress wife, Cora his comically implacable, opinionated mother, Violet and his beautiful, eldest daughter, Mary, intent on charting her own course. Reluctantly, the family is forced to welcome its heir apparent, the self-made and proudly modern Matthew Crawley himself none too happy about the new arrangements. As Matthew's bristly relationship with Mary begins to crackle with electricity, hope for the future of Downton's dynasty takes shape. But when petty jealousies and ambitions grow among the family and the staff, scheming and secrets — both delicious and dangerous — threaten to derail the scramble to preserve <i>Downton Abbey</i>. Created and written by Oscar-winner Julian Fellowes, <i>Downton Abbey</i> offers a spot-on portrait of a vanishing way of life.</p>",
+        "type": "Scripted",
+        "updated": 1563958478,
+        "url": "http://www.tvmaze.com/shows/251/downton-abbey",
+        "webChannel": null,
+        "weight": 92,
+      },
+      Object {
+        "_links": Object {
+          "previousepisode": Object {
+            "href": "http://api.tvmaze.com/episodes/1011244",
+          },
+          "self": Object {
+            "href": "http://api.tvmaze.com/shows/252",
+          },
+        },
+        "externals": Object {
+          "imdb": "tt2543796",
+          "thetvdb": 267777,
+          "tvrage": 33436,
+        },
+        "genres": Array [
+          "Drama",
+          "Comedy",
+          "Family",
+        ],
+        "id": 252,
+        "image": Object {
+          "medium": "http://static.tvmaze.com/uploads/images/medium_portrait/50/126868.jpg",
+          "original": "http://static.tvmaze.com/uploads/images/original_untouched/50/126868.jpg",
+        },
+        "language": "English",
+        "name": "Girl Meets World",
+        "network": Object {
+          "country": Object {
+            "code": "US",
+            "name": "United States",
+            "timezone": "America/New_York",
+          },
+          "id": 78,
+          "name": "Disney Channel",
+        },
+        "officialSite": "http://disneychannel.disney.com/girl-meets-world",
+        "premiered": "2014-06-27",
+        "rating": Object {
+          "average": 7.8,
+        },
+        "runtime": 30,
+        "schedule": Object {
+          "days": Array [
+            "Friday",
+          ],
+          "time": "18:00",
+        },
+        "status": "Ended",
+        "summary": "<p><b>Girl Meets World</b> is based on ABC's hugely popular sitcom, Boy Meets World (1993). Set in New York City, the show tells the wonderfully funny heartfelt stories that Boy Meets World is renowned for - only this time from a tween girl's perspective - as the curious and bright 7th grader Riley Matthews and her quick-witted friend Maya Fox embark on an unforgettable middle school experience. But their plans for a carefree year will be adjusted slightly under the watchful eyes of Riley's parents - dad Cory, who's also a faculty member (and their new History teacher), and mom Topanga, who owns a trendy after school hangout that specializes in pudding.</p>",
+        "type": "Scripted",
+        "updated": 1536662976,
+        "url": "http://www.tvmaze.com/shows/252/girl-meets-world",
+        "webChannel": Object {
+          "country": Object {
+            "code": "US",
+            "name": "United States",
+            "timezone": "America/New_York",
+          },
+          "id": 83,
+          "name": "DisneyNOW",
+        },
+        "weight": 65,
+      },
+    ]
+  }
+  disableVirtualization={false}
+  getItem={[Function]}
+  getItemCount={[Function]}
+  horizontal={false}
+  initialNumToRender={10}
+  keyExtractor={[Function]}
+  maxToRenderPerBatch={10}
+  numColumns={1}
+  onContentSizeChange={[Function]}
+  onEndReached={[Function]}
+  onEndReachedThreshold={0}
+  onLayout={[Function]}
+  onMomentumScrollEnd={[Function]}
+  onScroll={[Function]}
+  onScrollBeginDrag={[Function]}
+  onScrollEndDrag={[Function]}
+  removeClippedSubviews={false}
+  renderItem={[Function]}
+  scrollEventThrottle={50}
+  stickyHeaderIndices={Array []}
+  style={
+    Object {
+      "backgroundColor": "#D3D3D3",
+    }
+  }
+  updateCellsBatchingPeriod={50}
+  viewabilityConfigCallbackPairs={Array []}
+  windowSize={21}
+>
+  <View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        accessible={true}
+        clickable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "white",
+              "borderColor": "#D3D3D3",
+              "borderWidth": 1,
+              "margin": 3,
+              "marginHorizontal": 44.11764705882353,
+              "padding": 5,
+            }
+          }
+        >
+          <Image
+            resizeMode="stretch"
+            source={
+              Object {
+                "uri": "http://static.tvmaze.com/uploads/images/original_untouched/1/4600.jpg",
+              }
+            }
+            style={
+              Object {
+                "height": 784.7058823529412,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "borderBottomColor": "#D3D3D3",
+                "borderBottomWidth": 1,
+                "margin": 2,
+                "padding": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 20,
+                }
+              }
+            >
+              Kirby Buckets
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "margin": 2,
+                "padding": 5,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "borderColor": "#D3D3D3",
+                  "borderRightWidth": 0.5,
+                  "flex": 5,
+                }
+              }
+            >
+              <View
+                pointerEvents="none"
+                style={
+                  Object {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "borderColor": "#D3D3D3",
+                  "borderLeftWidth": 0.5,
+                  "flex": 1,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 39.473684210526315,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                0.0
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        accessible={true}
+        clickable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "white",
+              "borderColor": "#D3D3D3",
+              "borderWidth": 1,
+              "margin": 3,
+              "marginHorizontal": 44.11764705882353,
+              "padding": 5,
+            }
+          }
+        >
+          <Image
+            resizeMode="stretch"
+            source={
+              Object {
+                "uri": "http://static.tvmaze.com/uploads/images/original_untouched/1/4601.jpg",
+              }
+            }
+            style={
+              Object {
+                "height": 784.7058823529412,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "borderBottomColor": "#D3D3D3",
+                "borderBottomWidth": 1,
+                "margin": 2,
+                "padding": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 20,
+                }
+              }
+            >
+              Downton Abbey
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "margin": 2,
+                "padding": 5,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "borderColor": "#D3D3D3",
+                  "borderRightWidth": 0.5,
+                  "flex": 5,
+                }
+              }
+            >
+              <View
+                pointerEvents="none"
+                style={
+                  Object {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "borderColor": "#D3D3D3",
+                  "borderLeftWidth": 0.5,
+                  "flex": 1,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 39.473684210526315,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                9.1
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+    <View
+      onLayout={[Function]}
+      style={null}
+    >
+      <View
+        accessible={true}
+        clickable={true}
+        isTVSelectable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "white",
+              "borderColor": "#D3D3D3",
+              "borderWidth": 1,
+              "margin": 3,
+              "marginHorizontal": 44.11764705882353,
+              "padding": 5,
+            }
+          }
+        >
+          <Image
+            resizeMode="stretch"
+            source={
+              Object {
+                "uri": "http://static.tvmaze.com/uploads/images/original_untouched/50/126868.jpg",
+              }
+            }
+            style={
+              Object {
+                "height": 784.7058823529412,
+              }
+            }
+          />
+          <View
+            style={
+              Object {
+                "alignItems": "center",
+                "borderBottomColor": "#D3D3D3",
+                "borderBottomWidth": 1,
+                "margin": 2,
+                "padding": 5,
+              }
+            }
+          >
+            <Text
+              style={
+                Object {
+                  "fontSize": 20,
+                }
+              }
+            >
+              Girl Meets World
+            </Text>
+          </View>
+          <View
+            style={
+              Object {
+                "flexDirection": "row",
+                "margin": 2,
+                "padding": 5,
+              }
+            }
+          >
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "borderColor": "#D3D3D3",
+                  "borderRightWidth": 0.5,
+                  "flex": 5,
+                }
+              }
+            >
+              <View
+                pointerEvents="none"
+                style={
+                  Object {
+                    "flexDirection": "row",
+                    "justifyContent": "space-between",
+                  }
+                }
+              >
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+                <View
+                  style={Object {}}
+                >
+                  <View
+                    accessibilityRole="button"
+                    accessible={true}
+                    clickable={false}
+                    isTVSelectable={true}
+                    onClick={[Function]}
+                    onResponderGrant={[Function]}
+                    onResponderMove={[Function]}
+                    onResponderRelease={[Function]}
+                    onResponderTerminate={[Function]}
+                    onResponderTerminationRequest={[Function]}
+                    onStartShouldSetResponder={[Function]}
+                    style={
+                      Object {
+                        "opacity": 1,
+                      }
+                    }
+                  >
+                    <Text
+                      allowFontScaling={false}
+                      style={
+                        Array [
+                          Object {
+                            "color": "#CFB53B",
+                            "fontSize": 50,
+                          },
+                          Object {
+                            "transform": Array [
+                              Object {
+                                "scaleX": 1,
+                              },
+                            ],
+                          },
+                          Object {
+                            "fontFamily": "FontAwesome",
+                            "fontStyle": "normal",
+                            "fontWeight": "normal",
+                          },
+                        ]
+                      }
+                    >
+                      
+                    </Text>
+                  </View>
+                </View>
+              </View>
+            </View>
+            <View
+              style={
+                Object {
+                  "alignItems": "center",
+                  "borderColor": "#D3D3D3",
+                  "borderLeftWidth": 0.5,
+                  "flex": 1,
+                }
+              }
+            >
+              <Text
+                style={
+                  Object {
+                    "fontSize": 39.473684210526315,
+                    "fontWeight": "bold",
+                  }
+                }
+              >
+                7.8
+              </Text>
+            </View>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTScrollView>
+`;
+
+exports[`SANPSHOT TEST - ShowSummary 1`] = `
+<View>
+  <View
+    style={
+      Object {
+        "borderColor": "#D3D3D3",
+        "borderTopWidth": 1,
+        "paddingHorizontal": 15,
+        "paddingVertical": 7,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 17,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Summary
+    </Text>
+    <Text>
+      The single-camera series that mixes live-action and animation stars Jacob Bertrand as the title character. Kirby Buckets introduces viewers to the vivid imagination of charismatic 13-year-old Kirby Buckets, who dreams of becoming a famous animator like his idol, Mac MacCallister. With his two best friends, Fish and Eli, by his side, Kirby navigates his eccentric town of Forest Hills where the trio usually find themselves trying to get out of a predicament before Kirby's sister, Dawn, and her best friend, Belinda, catch them. Along the way, Kirby is joined by his animated characters, each with their own vibrant personality that only he and viewers can see.
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderColor": "#D3D3D3",
+        "borderTopWidth": 1,
+        "paddingHorizontal": 15,
+        "paddingVertical": 7,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 17,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Genres
+    </Text>
+    <Text>
+      Comedy
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderColor": "#D3D3D3",
+        "borderTopWidth": 1,
+        "paddingHorizontal": 15,
+        "paddingVertical": 7,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 17,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Schedule
+    </Text>
+    <Text>
+      Monday, Tuesday, Wednesday, Thursday, Friday at 07:00
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderColor": "#D3D3D3",
+        "borderTopWidth": 1,
+        "paddingHorizontal": 15,
+        "paddingVertical": 7,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 17,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Network
+    </Text>
+    <Text>
+      Disney XD
+    </Text>
+  </View>
+  <View
+    style={
+      Object {
+        "borderColor": "#D3D3D3",
+        "borderTopWidth": 1,
+        "paddingHorizontal": 15,
+        "paddingVertical": 7,
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "fontSize": 17,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Language
+    </Text>
+    <Text>
+      English
+    </Text>
+  </View>
+</View>
+`;
